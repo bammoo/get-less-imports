@@ -1,0 +1,27 @@
+{
+  "name": "get-less-imports",
+  "version": "0.0.1",
+  "description": "Gulp plugin for watching .less files and their @imports",
+  "license": "MIT",
+  "repository": "bammoo/get-less-imports",
+  "author": {
+    "name": "John Xiao",
+    "email": "xiao-jianfeng@qq.com",
+    "url": "https://github.com/bammoo"
+  },
+  "scripts": {
+    "test": "mocha test/test-*"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "keywords": [
+    "less",
+    "imports"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
