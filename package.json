@@ -1,6 +1,6 @@
 {
   "name": "get-less-imports",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get .less files' @imports",
   "license": "MIT",
   "repository": "bammoo/get-less-imports",
