@@ -1,7 +1,7 @@
 {
   "name": "get-less-imports",
   "version": "0.0.1",
-  "description": "Gulp plugin for watching .less files and their @imports",
+  "description": "Get .less files' @imports",
   "license": "MIT",
   "repository": "bammoo/get-less-imports",
   "author": {
@@ -21,7 +21,5 @@
     "imports"
   ],
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "^2.4.5"
-  }
+  "devDependencies": {}
 }
